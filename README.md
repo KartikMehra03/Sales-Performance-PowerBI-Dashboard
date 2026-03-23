@@ -30,11 +30,11 @@
 
 💡**Insights and Conclusions**
 
-• Total sales of $2.26M from 4,922 orders with an average order value of $459.
-• Sales increased from $459K (2016) to $722K (2018) showing strong growth.
-• Technology is the top category ($0.83M), followed by Furniture and Office Supplies.
-• Consumer segment contributes 50.76% ($1.15M) of total sales.
-• Standard Class shipping dominates ($1.34M), indicating preference for cost-effective delivery.
+• Total sales of $2.26M from 4,922 orders with an average order value of $459.   
+• Sales increased from $459K (2016) to $722K (2018) showing strong growth.    
+• Technology is the top category ($0.83M), followed by Furniture and Office Supplies.  
+• Consumer segment contributes 50.76% ($1.15M) of total sales.   
+• Standard Class shipping dominates ($1.34M), indicating preference for cost-effective delivery.    
 • West region is the highest-performing market.
 
 
