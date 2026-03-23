@@ -12,8 +12,8 @@
 📌 **Features / Highlights**
 
 🎯 **Key Performance Indicators (KPIs)**
-• **Total Sales:** $2.26M
-• **Total Orders:** 4,922
+• **Total Sales:** $2.26M  
+• **Total Orders:** 4,922  
 • **Average Order Value:** $459
 
 👁️ **Key Visual**
